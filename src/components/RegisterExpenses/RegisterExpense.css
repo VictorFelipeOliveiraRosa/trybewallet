@@ -1,12 +1,14 @@
 .container-wallet {
+  border: none;
   height: 100%;
   width: 100%;
 }
 
 .form-register-wallet {
   align-items: center;
-  background-color: #324454;
-  box-shadow: 1px 1px 3px 3px;
+  background-color: #ece2e2a6;
+  border: none;
+  box-shadow: 0 0 1px 1px;
   display: flex;
   height: 10vh;
   justify-content: center;
@@ -17,6 +19,7 @@
 
 .content-input-expenditure {
   align-items: center;
+  border: none;
   display: flex;
   height: 100%;
   margin: 0 auto;
@@ -25,7 +28,7 @@
 
 .input-value-expenditure {
   background-color: inherit;
-  border: 1px solid #324454;
+  border: 1px solid rgb(211, 202, 202);
   border-bottom: 1px solid #161e25;
   box-sizing: border-box;
   font-size: 1.4em;
@@ -37,9 +40,9 @@
 }
 
 .btn-add-expenditure {
-  background-color: rgb(0, 255, 200);
+  background-color: rgb(73, 63, 63);
   box-sizing: border-box;
-  color: black;
+  color: rgb(233, 223, 223);
   font-size: 1.2em;
   height: 6vh;
   width: 150px;

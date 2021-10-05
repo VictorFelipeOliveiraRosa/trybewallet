@@ -1,6 +1,6 @@
 .header-content-wallet {
   align-items: center;
-  background-color: #2e0002;
+  background-color: #110e0e;
   box-shadow: 0 0 10px 0;
   display: flex;
   height: 10vh;
@@ -11,7 +11,7 @@
 .email-content-wallet , .total-field-content-wallet {
   align-items: center;
   box-sizing: border-box;
-  color: #617a88;
+  color: #c0ccd3;
   display: flex;
   height: 100%;
   width: 15%;

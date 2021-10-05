@@ -16,7 +16,7 @@
 
 .App-header {
   align-items: center;
-  background-color: #282c34;
+  background-color: #053fb3;
   color: white;
   display: flex;
   flex-direction: column;
@@ -26,7 +26,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #093de6;
 }
 
 @keyframes App-logo-spin {

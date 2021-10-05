@@ -1,14 +1,14 @@
 .content-login {
-  background-color: #253559;
+  background-color: #30333a;
   border-radius: 6px;
   box-shadow: 2px 2px 5px 5px #252525;
   display: flex;
   flex-wrap: wrap;
-  height: 50vh;
+  height: 30vh;
   justify-content: center;
   margin: 24vh auto;
   overflow: auto;
-  width: 60%;
+  width: 40%;
 }
 
 .content-title-login {
